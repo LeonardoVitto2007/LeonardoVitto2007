@@ -1,4 +1,4 @@
-### Aopa Bem vindo(a) 👋
+### Aopa bem vindo(a) 👋
 
 Tudo que eu sei é que não sei de nada e que pensamento computacional é legal
 
